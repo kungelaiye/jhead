@@ -1,5 +1,5 @@
-#1234567891131
-#Jhead
+
+#1234567891
 ## Jhead is a command line driven program for manipulating the non-image parts of Exif flavour JPEG files that most digital cameras produce.
 
 ### Jhead v3.00 program Features
